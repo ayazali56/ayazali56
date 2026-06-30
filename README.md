@@ -5,34 +5,31 @@
 
 ### 🚀 Software Developer | Linux Enthusiast | DevOps Learner | Computer Science Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Linux+Enthusiast;DevOps+%7C+Docker+%7C+AWS;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Software+Developer;Linux+Enthusiast;DevOps+Learner;Always+Learning+New+Technologies" />
 
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=ayazali56&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
 
 </div>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
 - 🎓 Computer Science Student
-- 🐧 Passionate Linux User
-- 💻 Learning Full Stack Development
-- ☁️ Exploring AWS & Cloud Computing
-- ⚙️ Learning Docker, Kubernetes & DevOps
-- 🚀 Love Building Real-World Projects
-- 📖 Always Learning Something New
+- 💻 Passionate about Software Development
+- 🐧 Linux Enthusiast
+- 🌱 Currently learning **Docker, Kubernetes, AWS & DevOps**
+- 🚀 Building Full Stack Projects
+- 📖 Always learning new technologies
 
 ---
 
-# 🚀 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,html,css,bash" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,bash" />
 </p>
 
 ### Frontend
@@ -56,30 +53,26 @@
 ### DevOps & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx" />
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,git,github" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
 </p>
 
 ---
 
-# 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayazali56&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayazali56&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayazali56&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayazali56&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -89,17 +82,17 @@
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ayazali56&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ayazali56&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 
@@ -109,41 +102,33 @@
 
 ---
 
-# 🎯 Current Goals
+## 🎯 Current Goals
 
-✅ Master Linux
-
-✅ Learn Docker & Kubernetes
-
-✅ Become a DevOps Engineer
-
-✅ Build Production-Ready Full Stack Apps
-
-✅ Contribute to Open Source
-
-✅ Earn AWS Certifications
+- 🚀 Become a Full Stack Developer
+- 🐳 Master Docker & Kubernetes
+- ☁️ Learn AWS Cloud
+- ⚙️ Become a DevOps Engineer
+- 🌍 Contribute to Open Source
 
 ---
 
-# 📂 Featured Projects
+## 📂 Featured Projects
 
-🚀 Linux Lab
-
-🌐 Portfolio Website
-
-⚛️ React Projects
-
-🐍 Python Automation
-
-📦 REST APIs
-
-🐳 Docker Projects
+- 🐧 Linux Lab
+- 🌐 Portfolio Website
+- 📦 REST APIs
+- ⚛️ React Applications
+- 🐍 Python Projects
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-<p align="left">
+<p>
+
+<a href="https://github.com/ayazali56">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
 <a href="https://linkedin.com/in/YOUR-LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
@@ -157,15 +142,9 @@
 
 ---
 
-# ⚡ Fun Fact
+## 🐍 Contribution Snake
 
-> "The best way to predict the future is to build it."
-
----
-
-# 🐍 Contribution Snake
-
-> After enabling GitHub Actions, this animation will appear below.
+> Enable the GitHub Actions workflow to generate this automatically.
 
 ![Snake animation](https://github.com/ayazali56/ayazali56/blob/output/github-contribution-grid-snake-dark.svg)
 
@@ -175,7 +154,7 @@
 
 ### ⭐ Thanks for visiting my profile!
 
-If you like my work, consider giving a ⭐ to my repositories.
+*"Code • Learn • Build • Repeat"* 🚀
 
 </div>
 ```
